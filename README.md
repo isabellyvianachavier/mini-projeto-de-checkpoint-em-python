@@ -60,3 +60,7 @@ O principal objetivo deste projeto é desenvolver a capacidade de transformar **
 
 O exercício também ajuda a compreender como diferentes condições podem ser analisadas em sequência para que um sistema tome decisões automaticamente.
 
+## Colaboradores:
+Gabrielly Santos - github: @gabrielymoreira;
+Isabelly Viana - github: @isabellyvianachavier;
+Larissa Avelina - github: @lariavelina.
